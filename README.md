@@ -12,5 +12,5 @@
 Create a new environment
 
 ```
-conda create -p venv python==3.10 -y
+conda crffeate -p venv python==3.10 -y
 ```
