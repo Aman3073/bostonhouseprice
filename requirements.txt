@@ -6,4 +6,4 @@ matplotlib
 gunicorn
 Flask
 Gunicorn
-scikit-learn
+scikit-learns
