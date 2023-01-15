@@ -42,3 +42,10 @@ The app in this repo is deployed at [https://boston-house-price-prediction-oyaq.
 
 
 Follow the guide at https://render.com/docs/deploy-flask.
+
+
+
+
+https://user-images.githubusercontent.com/102363743/212546404-c931acfd-0e4e-4bec-95fe-232a0c36f05c.mp4
+
+
